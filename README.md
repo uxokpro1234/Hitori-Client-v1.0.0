@@ -1,5 +1,6 @@
 # Hitori Client – Modified Build
 
+<img src = "hitori.png">
 A modified build of **Hitori Client** for Minecraft 1.12.2, with selected initialization and compatibility fixes.
 
 ## Information
